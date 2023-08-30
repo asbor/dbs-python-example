@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Introduction to Data Science](README.md)
+* [Course introduction](README.md)
+* [1. Introduction to Data Science](1.-introduction-to-data-science/README.md)
+  * [Study goals:](1.-introduction-to-data-science/study-goals.md)
