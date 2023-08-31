@@ -1,7 +1,7 @@
 ---
 description: A brief introduction to the course
-cover: .gitbook/assets/GettyImages-1031563502_myCampus.jpg
-coverY: 104.25599999999999
+cover: .gitbook/assets/GettyImages-117144604_myCampus.jpg
+coverY: 0
 layout:
   cover:
     visible: true
